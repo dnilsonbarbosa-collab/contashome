@@ -1,0 +1,5 @@
+# No terminal, na pasta do seu projeto:
+touch .nojekyll
+git add .nojekyll
+git commit -m "Add .nojekyll to bypass Jekyll"
+git push
